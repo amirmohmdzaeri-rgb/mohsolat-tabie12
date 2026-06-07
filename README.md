@@ -1,2 +1,1 @@
-# mohsolat-tabie12
-محصولات طبیعی
+Starter React + Firebase project scaffold
